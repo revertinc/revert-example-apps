@@ -1491,10 +1491,10 @@
     schema-utils "^3.0.0"
     source-map "^0.7.3"
 
-"@revertdotdev/revert-react@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@revertdotdev/revert-react/-/revert-react-0.0.14.tgz#2b80be677c7f0bfcbc21470c213e720ee25d4605"
-  integrity sha512-o7AtIFXkxAAYgrOcBQyZ2EkewaGsMqtzWpk9SJBV3U/MVv8G8b0F5XKxKzFon8yxyGQcRajC/Y7iCBHIlVSF1g==
+"@revertdotdev/revert-react@^0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@revertdotdev/revert-react/-/revert-react-0.0.15.tgz#08d69f81c8f87df438a48b2533587d08a2b53ff2"
+  integrity sha512-vVc1+XnX+b6yTqPmro0DaTmIaboZW4bWryYKMXjwnGh8GxkNEDbbljr4LrqAEZko+EYO8mlUjYJKISEsrWwl/g==
 
 "@rollup/pluginutils@^4.1.2", "@rollup/pluginutils@^4.2.1":
   version "4.2.1"

@@ -23,6 +23,7 @@ function App() {
           config={{
             revertToken: REVERT_TOKEN,
             tenantId: UNIQUE_TENANT_ID,
+            closeAfterOAuthFlow: false,
           }}
         >
           {" "}
